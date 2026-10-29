@@ -2,6 +2,18 @@
 
 ### Staff Engineer | Agentic AI | Android Engineering | AI Platform Architecture
 
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&height=55&lines=Staff+Engineer+%7C+13%2B+Years+Experience;Agentic+AI+%26+AI+Platform+Engineering;Android+%26+Enterprise+Mobile+Engineering;Pre-Sales+%7C+Business+%26+Technology" alt="Animated engineering introduction" />
+
+<br/>
+
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-0891B2?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android_Engineering-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![AI Platform](https://img.shields.io/badge/AI_Platform-7C3AED?style=for-the-badge)
+![Pre-Sales](https://img.shields.io/badge/Pre--Sales-334155?style=for-the-badge)
+
+</div>
+
 I'm a software engineer with **13+ years of professional experience** spanning Pre-Sales & Business Development, enterprise Android engineering, and Generative AI.
 
 My career began in **Pre-Sales and Business Development**, where I developed experience in understanding customer requirements, communicating technical solutions, and aligning technology with business objectives.
