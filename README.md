@@ -33,6 +33,14 @@ I bring together **business understanding, hands-on engineering, and architectur
 - Prompt engineering, structured outputs, AI evaluations
 - LLM gateways, model routing, fallback strategies, observability
 
+![Python](https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=38BDF8)
+![LangChain](https://img.shields.io/badge/LangChain-1E293B?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1E293B?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-1E293B?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-1E293B?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-1E293B?style=for-the-badge&logo=openai&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-1E293B?style=for-the-badge)
+
 ### 📱 Android & Mobile Engineering
 - Kotlin, Java, Android SDK, Jetpack Compose
 - MVVM, Clean Architecture, modular application design
@@ -41,11 +49,26 @@ I bring together **business understanding, hands-on engineering, and architectur
 - Enterprise banking applications and reusable SDK development
 - Performance optimization, debugging, application lifecycle management
 
+![Android](https://img.shields.io/badge/Android-1E293B?style=for-the-badge&logo=android&logoColor=3DDC84)
+![Kotlin](https://img.shields.io/badge/Kotlin-1E293B?style=for-the-badge&logo=kotlin&logoColor=A78BFA)
+![Java](https://img.shields.io/badge/Java-1E293B?style=for-the-badge)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-1E293B?style=for-the-badge&logo=jetpackcompose&logoColor=38BDF8)
+![Flutter](https://img.shields.io/badge/Flutter-1E293B?style=for-the-badge&logo=flutter&logoColor=38BDF8)
+![MVVM](https://img.shields.io/badge/MVVM-1E293B?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1E293B?style=for-the-badge)
+
 ### ⚙️ Backend & AI Platform Engineering
 - Python, FastAPI, REST APIs, asynchronous programming
 - Multi-provider LLM routing, retries, timeouts, fallback
 - Rate limiting, latency monitoring, PII protection
 - Microservices, distributed systems, API architecture
+
+![FastAPI](https://img.shields.io/badge/FastAPI-1E293B?style=for-the-badge&logo=fastapi&logoColor=2DD4BF)
+![AWS](https://img.shields.io/badge/AWS-1E293B?style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-1E293B?style=for-the-badge&logo=googlecloud&logoColor=38BDF8)
+![Docker](https://img.shields.io/badge/Docker-1E293B?style=for-the-badge&logo=docker&logoColor=38BDF8)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1E293B?style=for-the-badge&logo=kubernetes&logoColor=818CF8)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1E293B?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### ☁️ Cloud & Infrastructure
 - AWS, GCP, Kubernetes, Docker
@@ -58,6 +81,11 @@ I bring together **business understanding, hands-on engineering, and architectur
 - Stakeholder communication and collaboration
 - Translating business needs into technical requirements
 - Business and technology alignment
+
+
+![Solution Design](https://img.shields.io/badge/Solution_Design-1E293B?style=for-the-badge)
+![Requirements](https://img.shields.io/badge/Requirements_Analysis-1E293B?style=for-the-badge)
+![Stakeholders](https://img.shields.io/badge/Stakeholder_Management-1E293B?style=for-the-badge)
 
 ## 🚀 Engineering Experience
 
